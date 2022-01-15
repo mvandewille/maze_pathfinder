@@ -1,5 +1,7 @@
 # Repository for work related to Group 20's Maze Pathfinding project
 
+Play with the app [HERE](https://www.mvandewille.com/pathfinding/index.html#)
+
 To run the application, simply open index.html within the "pathfinding" folder.
 
 The project is built using pure JavaScript, HTML, and CSS styles.
